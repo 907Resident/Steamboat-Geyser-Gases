@@ -10,11 +10,10 @@ The objective of this project was to measure the real-time concentration and car
 
 However, this study sought to find insight from a time series of gas measurements during an eruption cycle. Ajayi and Ayers (in review) found an anomalous measurement 10-25 minutes prior to the eruption on 12 Jun 2019. This anomalous measurement may in fact be a precursor signal that can alert an approaching eruption.
 
-The data within this repository was collected by the authors listed on this site and was used along with the code (located on GitHub) to reproduce the analysis and visualizations.
+The data associated within this project is located in a Mendeley Data [repository](http://dx.doi.org/10.17632/4mxkkg7htt.1).
 
 ## Code & Analysis
-
-
+Code in the Steamboat-Code folder provides the algorithms used for analysis in this manuscript.
 
 ## References
 Reed, M. H., Munoz-Saez, C., Hajimirza, S., Wu, S.-M., Barth, A., Girona, T., … Manga, M. (2021). The 2018 reawakening and eruption dynamics of Steamboat Geyser, the world’s tallest active geyser. Proceedings of the National Academy of Sciences, 118(2), e2020943118. https://doi.org/10.1073/pnas.2020943118
