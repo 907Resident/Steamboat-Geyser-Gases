@@ -2,7 +2,7 @@
 ## Manuscript
 *Title*: CH<sub>4</sub> and CO<sub>2</sub> Gas Emissions Before and After a Steamboat Geyser Eruption <br/>
 *Authors*: Moyosore Ajayi (Vanderbilt University) & John C. Ayers (Vanderbilt University) <br/>
-*Publication Date*: Accpeted 16 Mar 2021 <br/>
+*Publication Date*: Accepted 16 Mar 2021 <br/>
 *Journal*: _Journal of Volcanology and Geothermal Research_ <br/>
 
 ## Project Description
