@@ -2,8 +2,8 @@
 ## Manuscript
 *Title*: CH<sub>4</sub> and CO<sub>2</sub> Gas Emissions Before and After a Steamboat Geyser Eruption <br/>
 *Authors*: Moyosore Ajayi (Vanderbilt University) & John C. Ayers (Vanderbilt University) <br/>
-*Publication Date*: <br/>
-*Journal*: <br/>
+*Publication Date*: Accepted 16 Mar 2021 <br/>
+*Journal*: _Journal of Volcanology and Geothermal Research_ <br/>
 
 ## Project Description
 The objective of this project was to measure the real-time concentration and carbon isotopic measurements of methane (CH<sub>4</sub>) and carbon dioxide (CO<sub>2</sub>) before and after a major eruption at Steamboat Geyser, Norris Geyser Basin, WY. Steamboat is the tallest erupting active geyser in the world and has recently entered a phase of high activity. Between 2000 and 2017, 10 eruptions occurred; however, between April 2018 and March 2020, Steamboat erupted more than 85 times with an average of 8 ± 3 (1σ) days between each event. Work to understand this recent spate of eruptions has begun to trickle out in publications (e.g., Reed et al., 2021 and Wu et al., 2020).
