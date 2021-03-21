@@ -10,7 +10,7 @@ The objective of this project was to measure the real-time concentration and car
 
 However, this study sought to find insight from a time series of gas measurements during an eruption cycle. Ajayi and Ayers (in review) found an anomalous measurement 10-25 minutes prior to the eruption on 12 Jun 2019. This anomalous measurement may in fact be a precursor signal that can alert an approaching eruption.
 
-The data associated within this project is located in a Mendeley Data [repository](http://dx.doi.org/10.17632/4mxkkg7htt.1).
+The data associated within this project is located in a Mendeley Data [repository](http://dx.doi.org/10.17632/4mxkkg7htt.1). *Note*: the link to the data repository will not work until Mendeley Data complete its review; until that time, preview the repository [here](https://data.mendeley.com/datasets/4mxkkg7htt/draft?a=4dfb1b86-70d7-494e-904f-033edec1bb7b).
 
 ## Code & Analysis
 Code in the Steamboat-Code folder provides the algorithms used for analysis in this manuscript.
